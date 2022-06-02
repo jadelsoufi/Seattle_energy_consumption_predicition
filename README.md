@@ -2,8 +2,6 @@
 Créer un algorithme destiné à estimer la consommation énergétique et l'émission de CO2 de la ville de Seattle.
 Les prédictions seront annuelles, l'objectif étant qu'elles soient assez précises pour ne pas avoir recours aux relevés de consommation de chaque immeuble (méthode trop couteuse).
 
-Lien des consignes académiques OpenClassRooms: https://openclassrooms.com/fr/paths/148/projects/629/assignment
-
 ## Présentation
 
 Vous travaillez pour la ville de Seattle. Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, votre équipe s’intéresse de près à la consommation et aux émissions des bâtiments non destinés à l’habitation.
